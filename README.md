@@ -39,3 +39,7 @@
 * Hasil Program
 
 ![Gambar](Screenshot/TugasPraktikum/hasil3.png)
+
+# Flowchart Program
+
+![Gambar](Screenshot/TugasPraktikum/flowchart.png)
