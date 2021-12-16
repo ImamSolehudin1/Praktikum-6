@@ -8,17 +8,13 @@
 
 ![Gambar](Screenshot/TugasPraktikum/program1.png)
 
-* Hasil Program
-
-![Gambar](Screenshot/TugasPraktikum/hasil1.png)
-
 3. Selanjutnya kita buat program untuk menambahkan data, pada program ini kita menggunakan perintah fungsi yang dikombinasikan dengan list.append yang berfungsi untuk menambahkan data. berikut contoh programnya :
 
 ![Gambar](Screenshot/TugasPraktikum/program2.png)
 
 * Hasil Program
 
-![Gambar](Screenshot/TugasPraktikum/hasil2.png)
+![Gambar](Screenshot/TugasPraktikum/hasil1.png)
 
 4. Berikutnya kita buat program untuk menampilkan data. Pada program ini kita kombinasikan fungsi def dengan perulangan for. berikut conoth programnya :
 
@@ -26,7 +22,7 @@
 
 * Hasil Program
 
-![Gambar](Screenshot/TugasPraktikum/hasil3.png)
+![Gambar](Screenshot/TugasPraktikum/hasil2.png)
 
 5. Untuk program menghapus data kita menggunakan fungsi if-else dan juga ada gungsi remove untuk menghapus data. Dalam menjalankan programnya kita hanya perlu memasuka urutan nomor yang akan ingin kita hapus (catatan untuk pemilihan nomer dimulai dari 0 dan seterusnya, jadi  jika ingin memilih nomer 1 maka yang dimasukan 0 dan juga seterusnya).  Berikut contoh programnya :
 
@@ -42,4 +38,4 @@
 
 * Hasil Program
 
-![Gambar](Screenshot/TugasPraktikum/hasil5.png)
+![Gambar](Screenshot/TugasPraktikum/hasil3.png)
