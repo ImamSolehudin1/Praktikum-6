@@ -32,7 +32,7 @@
 
 ![Gambar](Screenshot/TugasPraktikum/hasil4.png)
 
-6. Yang terakhir kita buat progoram untuk mengubah data, untuk perintah mengubah data kita juga menggunakan perintah if-else. ketika menjalankan progamnya kita hanya perlu memasukan nama yang ini kita ubah, lalu masukan nama baru yang ingin kita masukan. Berikut Contoh programnnya :
+6. Yang terakhir kita buat progoram untuk mengubah data, untuk perintah mengubah data kita juga menggunakan perintah if-else. ketika menjalankan progamnya kita hanya perlu memasukan nomor urut yang ini kita ubah, lalu masukan nama baru yang ingin kita masukan untuk mengubah nama sebelumnnya. Berikut Contoh programnnya :
 
 ![Gambar](Screenshot/TugasPraktikum/program5.png)
 
