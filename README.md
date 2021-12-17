@@ -43,3 +43,45 @@
 # Flowchart Program
 
 ![Gambar](Screenshot/TugasPraktikum/flowchart.png)
+
+# Mengubah kode menjadi fungsi menggunakan Lambda
+
+a).  Program untuk mencari nilai akar.
+
+1. Program
+
+![Gambar](Screenshot/Latihanpy/pic1.png)
+
+2. Hasil Program.
+
+![Gambar](Screenshot/Latihanpy/hasil1.png)
+
+b). Program untuk Menjumlahkan Nilai akar dan merubahnya menjadi bilangan desimal.
+
+1. Program
+
+![Gambar](Screenshot/Latihanpy/pic2.png)
+
+2. Hasil Program.
+
+![Gambar](Screenshot/Latihanpy/hasil2.png)
+
+c). Program untuk membagi jumlah Nilai dengan jumlah baris yang ada.
+
+1. Program
+
+![Gambar](Screenshot/Latihanpy/pic3.png)
+
+2. Hasil Program.
+
+![Gambar](Screenshot/Latihanpy/hasil3.png)
+
+d). Program untuk Menampilkan huruf atau angka secara acak.
+
+1. Program
+
+![Gambar](Screenshot/Latihanpy/pic4.png)
+
+2. Hasil Program.
+
+![Gambar](Screenshot/Latihanpy/hasil4.png)
