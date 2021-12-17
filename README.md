@@ -46,6 +46,10 @@
 
 # Mengubah kode menjadi fungsi menggunakan Lambda
 
+# Soal Latihan
+
+![Gambar](Screenshot/Latihanpy/soallatihan.png)
+
 a).  Program untuk mencari nilai akar.
 
 1. Program
